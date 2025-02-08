@@ -6,3 +6,9 @@
 - Router Agent efficiently routes to text-to-sql engine or RAG knowledge base based on user input.
 
   ![image](https://github.com/user-attachments/assets/c8be87d2-508e-41e2-8320-75f1f56c61f3)
+
+
+  ## Sample test NlP to SQL queries results
+
+  ![image](https://github.com/user-attachments/assets/6aa628c7-6913-4e08-b7a3-756c5443aa32)
+
